@@ -65,19 +65,34 @@ MODEL GRAPH:
 
 
 Program
-
+Am=2.2;
+fm=207;
+Ac=4.4;
+fc=2070;
+fs=20700;
+B=2.3
+t=0:1/fs:2/fm;
+m=Am*cos(2*3.14*fm*t);
+subplot(3,1,1);
+plot(t,m);
+c=Ac*cos(2*3.14*fc*t);
+subplot(3,1,2);
+plot(t,c);
+s=Ac.*cos((2*3.14*fc*t)+(B*sin(2*3.14*fm*t)));
+subplot(3,1,3);
+plot(t,s);
 
 Output Waveform
 
+<img width="1553" height="974" alt="image" src="https://github.com/user-attachments/assets/759e9e08-28f8-4f2c-8c0d-9b02b3124c32" />
 
 
 Tabulation
 
+<img width="441" height="737" alt="image" src="https://github.com/user-attachments/assets/388aab94-4bd3-4c5c-b877-74ee90d7447f" />
 
 
 Calculation
-
-
 
 Frequency Deviation Practical = 
 
