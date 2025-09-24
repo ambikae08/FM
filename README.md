@@ -94,11 +94,11 @@ Tabulation
 
 Calculation
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 511.2
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 2.3
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	= 2.4
 
 
 
