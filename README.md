@@ -65,6 +65,7 @@ MODEL GRAPH:
 
 
 Program
+```
 Am=2.2;
 fm=207;
 Ac=4.4;
@@ -101,7 +102,7 @@ Modulation Index Practical	= 2.3
 Modulation Index Theoretical	= 2.4
 
 
-
+```
 RESULT:
 
 Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified.
