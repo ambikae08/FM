@@ -82,7 +82,7 @@ plot(t,c);
 s=Ac.*cos((2*3.14*fc*t)+(B*sin(2*3.14*fm*t)));
 subplot(3,1,3);
 plot(t,s);
-
+```
 Output Waveform
 
 <img width="1553" height="974" alt="image" src="https://github.com/user-attachments/assets/759e9e08-28f8-4f2c-8c0d-9b02b3124c32" />
@@ -102,7 +102,7 @@ Modulation Index Practical	= 2.3
 Modulation Index Theoretical	= 2.4
 
 
-```
+
 RESULT:
 
 Thus, the frequency modulation and demodulation is successfully done and the output is experimentally verified.
